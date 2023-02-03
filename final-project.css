@@ -421,3 +421,9 @@ h2 {
     height: 80px;
 }
 
+.rights {
+    font-size: 26px;
+    padding: 26px;
+    color: rgb(59, 59, 59);
+    text-align: center;
+}
